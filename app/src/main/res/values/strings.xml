@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PeticionesAPI</string>
+
+    <string name="url_actividades">https://j02admbtura.com/api/actividad</string>
+    <string name="url_actividad">https://j02admbtura.com/api/actividad/</string>
+</resources>
